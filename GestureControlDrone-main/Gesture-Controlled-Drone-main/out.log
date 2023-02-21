@@ -1,0 +1,195 @@
+vijit@raspberrypi:~/Gesture-Controlled-Drone $ python3 code.py 
+
+Temperature: 27 degrees C
+Accelerometer (m/s^2): (-0.11, -0.7000000000000001, 9.66)
+Magnetometer (microteslas): (-5.6875, -1.25, -27.0)
+Gyroscope (rad/sec): (-0.001090830782496456, 0.004363323129985824, 0.002181661564992912)
+Euler angle: (20.125, -0.25, 4.25)
+Quaternion: (0.98388671875, -0.03607177734375, 0.0091552734375, -0.17486572265625)
+Linear acceleration (m/s^2): (-0.05, 0.0, -0.1)
+Gravity (m/s^2): (-0.05, -0.72, 9.77)
+flat
+
+Temperature: 27 degrees C
+Accelerometer (m/s^2): (-0.2, -7.94, 5.84)
+Magnetometer (microteslas): (-3.0, 25.5, -17.75)
+Gyroscope (rad/sec): (-0.06435901616729091, 0.0, -0.004363323129985824)
+Euler angle: (18.375, -0.875, 54.1875)
+Quaternion: (0.87841796875, -0.44873046875, 0.08184814453125, -0.1424560546875)
+Linear acceleration (m/s^2): (-0.03, 0.0, 0.09)
+Gravity (m/s^2): (-0.15, -7.96, 5.71)
+right
+
+Temperature: 27 degrees C
+Accelerometer (m/s^2): (0.0, 9.42, 2.42)
+Magnetometer (microteslas): (-3.5625, -23.875, -1.1875)
+Gyroscope (rad/sec): (0.04908738521234052, -0.002181661564992912, 0.002181661564992912)
+Euler angle: (29.8125, 0.0, -75.5625)
+Quaternion: (0.763427734375, 0.592529296875, -0.15716552734375, -0.203369140625)
+Linear acceleration (m/s^2): (0.01, -0.06, -0.06)
+Gravity (m/s^2): (-0.01, 9.49, 2.43)
+left
+
+Temperature: 27 degrees C
+Accelerometer (m/s^2): (-7.92, 0.23, 5.8)
+Magnetometer (microteslas): (23.875, 0.5, -14.375)
+Gyroscope (rad/sec): (0.00545415391248228, -0.037088246604879506, 0.004363323129985824)
+Euler angle: (33.5, -54.0, -2.5625)
+Quaternion: (0.852783203125, 0.1455078125, 0.43072509765625, -0.25701904296875)
+Linear acceleration (m/s^2): (0.05, -0.06, 0.03)
+Gravity (m/s^2): (-7.930000000000001, 0.26, 5.75)
+back
+
+Temperature: 27 degrees C
+Accelerometer (m/s^2): (9.21, 0.0, 3.39)
+Magnetometer (microteslas): (-28.1875, 2.5625, -6.75)
+Gyroscope (rad/sec): (0.038179077387375956, -0.09926560120717749, 0.008726646259971648)
+Euler angle: (13.5625, 70.1875, -0.875)
+Quaternion: (0.811767578125, -0.06494140625, -0.572265625, -0.09686279296875)
+Linear acceleration (m/s^2): (-0.02, -0.01, 0.0)
+Gravity (m/s^2): (9.23, 0.05, 3.29)
+forward
+
+Temperature: 27 degrees C
+Accelerometer (m/s^2): (0.0, -0.25, 9.83)
+Magnetometer (microteslas): (0.375, -2042.8125, -33.0625)
+Gyroscope (rad/sec): (-0.002181661564992912, 0.003272492347489368, 0.001090830782496456)
+Euler angle: (346.5625, 0.25, 1.875)
+Quaternion: (0.9930419921875, -0.01611328125, -0.0042724609375, 0.1168212890625)
+Linear acceleration (m/s^2): (-0.02, 0.04, 0.0)
+Gravity (m/s^2): (1.32, -0.32, 9.8)
+flat
+
+Temperature: 27 degrees C
+Accelerometer (m/s^2): (-0.04, -0.35000000000000003, 9.85)
+Magnetometer (microteslas): (-0.375, 4.6875, -31.25)
+Gyroscope (rad/sec): (-0.004363323129985824, -0.002181661564992912, 0.0)
+Euler angle: (348.5625, 0.1875, 2.25)
+Quaternion: (0.99481201171875, -0.01953125, -0.00396728515625, 0.107421875)
+Linear acceleration (m/s^2): (-0.07, 0.03, 0.03)
+Gravity (m/s^2): (1.31, -0.38, 9.790000000000001)
+flat
+
+Temperature: 27 degrees C
+Accelerometer (m/s^2): (-0.08, -0.22, 9.85)
+Magnetometer (microteslas): (1.0, 3.5, 2008.9375)
+Gyroscope (rad/sec): (-0.001090830782496456, -0.001090830782496456, 0.001090830782496456)
+Euler angle: (312.5625, -0.625, 1.6875)
+Quaternion: (0.88519287109375, -0.01568603515625, -0.00201416015625, 0.4649658203125)
+Linear acceleration (m/s^2): (1.28, 0.09, 0.07)
+Gravity (m/s^2): (-0.1, -0.29, 9.8)
+rotate counter clockwise
+
+Temperature: 28 degrees C
+Accelerometer (m/s^2): (1.28, -0.02, 9.870000000000001)
+Magnetometer (microteslas): (7.0625, 5.6875, -35.6875)
+Gyroscope (rad/sec): (-0.003272492347489368, 0.003272492347489368, -0.002181661564992912)
+Euler angle: (305.5625, -0.1875, 0.6875)
+Quaternion: (-0.889892578125, 0.006591796875, 0.001220703125, -0.4561767578125)
+Linear acceleration (m/s^2): (0.04, 0.1, 0.0)
+Gravity (m/s^2): (-0.04, -0.12, 9.8)
+rotate counter clockwise
+
+Temperature: 28 degrees C
+Accelerometer (m/s^2): (0.48, 0.1, 9.97)
+Magnetometer (microteslas): (1.5625, -0.875, -39.5625)
+Gyroscope (rad/sec): (0.21925698728178766, -0.06544984694978735, 0.5530512067257032)
+Euler angle: (268.25, 2.6875, -2.8125)
+Quaternion: (-0.69580078125, -0.03424072265625, -0.00177001953125, -0.7174072265625)
+Linear acceleration (m/s^2): (-0.01, 0.25, 0.13)
+Gravity (m/s^2): (0.46, 0.49, 9.78)
+forward
+
+Temperature: 28 degrees C
+Accelerometer (m/s^2): (0.0, 0.06, 9.94)
+Magnetometer (microteslas): (4.5625, -3.25, -31.75)
+Gyroscope (rad/sec): (-0.00545415391248228, 0.01090830782496456, -0.07963064712224129)
+Euler angle: (234.0, -0.0625, -0.3125)
+Quaternion: (-0.4542236328125, -0.00030517578125, -0.00335693359375, -0.890869140625)
+Linear acceleration (m/s^2): (0.13, 0.13, 0.05)
+Gravity (m/s^2): (-0.03, 0.06, 9.8)
+rotate counter clockwise
+
+Temperature: 28 degrees C
+Accelerometer (m/s^2): (0.07, -0.11, 9.83)
+Magnetometer (microteslas): (2.5625, -2.0625, -36.375)
+Gyroscope (rad/sec): (0.013089969389957472, 0.001090830782496456, 0.03490658503988659)
+Euler angle: (246.3125, -0.375, 0.5)
+Quaternion: (-0.5469970703125, 0.00543212890625, 0.002197265625, -0.83709716796875)
+Linear acceleration (m/s^2): (0.11, 0.0, 0.02)
+Gravity (m/s^2): (-0.06, -0.09, 9.8)
+rotate counter clockwise
+
+Temperature: 28 degrees C
+Accelerometer (m/s^2): (0.06, -0.28, 9.92)
+Magnetometer (microteslas): (3.5625, 0.75, -45.375)
+Gyroscope (rad/sec): (-0.001090830782496456, 0.022907446432425576, -0.35452000431134817)
+Euler angle: (279.0, -0.3125, 1.375)
+Quaternion: (-0.760986328125, 0.01116943359375, 0.005859375, -0.64862060546875)
+Linear acceleration (m/s^2): (0.17, -0.11, 0.06)
+Gravity (m/s^2): (-0.05, -0.24, 9.8)
+rotate counter clockwise
+
+Temperature: 28 degrees C
+Accelerometer (m/s^2): (-0.05, -0.17, 9.82)
+Magnetometer (microteslas): (2.5, 4.875, -41.1875)
+Gyroscope (rad/sec): (0.009817477042468103, -0.018544123302439753, 0.0)
+Euler angle: (334.625, -0.5625, 9.375)
+Quaternion: (0.9833984375, -0.0130615234375, 0.002197265625, 0.21917724609375)
+Linear acceleration (m/s^2): (0.05, 0.08, 0.0)
+Gravity (m/s^2): (-0.09, -0.23, 9.8)
+flat
+
+Temperature: -100 degrees C
+Accelerometer (m/s^2): (0.0, -0.04, 9.89)
+Magnetometer (microteslas): (4.25, 5.0, -38.25)
+Gyroscope (rad/sec): (-0.00545415391248228, 0.001090830782496456, 0.0)
+Euler angle: (330.375, -0.3125, 0.6875)
+Quaternion: (0.9466552734375, 1.9853515625, 0.0008544921875, 0.322265625)
+Linear acceleration (m/s^2): (0.05, 0.03, 0.03)
+Gravity (m/s^2): (-0.06, -0.12, 9.8)
+flat
+
+Temperature: 28 degrees C
+Accelerometer (m/s^2): (0.29, -0.18, 9.85)
+Magnetometer (microteslas): (-2.875, -0.75, -41.5)
+Gyroscope (rad/sec): (-0.014180800172453928, 0.18653206380689397, -0.06217735460229799)
+Euler angle: (145.0625, 1.0625, 1.625)
+Quaternion: (0.2994384765625, -0.013916015625, 0.01068115234375, -0.9539794921875)
+Linear acceleration (m/s^2): (1.37, 0.13, 0.03)
+Gravity (m/s^2): (0.18, -0.29, 9.8)
+flat
+
+Temperature: 30 degrees C
+Accelerometer (m/s^2): (0.0, -0.32, 9.94)
+Magnetometer (microteslas): (4.375, 3.5625, -36.5)
+Gyroscope (rad/sec): (-0.006544984694978736, 0.003272492347489368, -0.00545415391248228)
+Euler angle: (296.75, -0.125, 1.5625)
+Quaternion: (-0.85174560546875, 0.01239013671875, 0.00604248046875, -0.52374267578125)
+Linear acceleration (m/s^2): (1.31, -0.09, 0.1)
+Gravity (m/s^2): (-0.02, -0.27, 9.8)
+forward
+
+Temperature: 29 degrees C
+Accelerometer (m/s^2): (-1.04, 1.62, 9.86)
+Magnetometer (microteslas): (2.25, -3.375, -36.5)
+Gyroscope (rad/sec): (-0.3108867730114899, 0.4363323129985824, -3.175408407847183)
+Euler angle: (295.3125, -1.3125, 2.3125)
+Quaternion: (-0.85009765625, 0.02557373046875, 0.00030517578125, -0.51318359375)
+Linear acceleration (m/s^2): (0.27, 2.38, -0.06)
+Gravity (m/s^2): (-0.19, -0.47000000000000003, 9.790000000000001)
+flat
+
+Temperature: 29 degrees C
+Accelerometer (m/s^2): (-0.04, -0.52, 9.83)
+Magnetometer (microteslas): (-5.5, 7.0, -36.75)
+Gyroscope (rad/sec): (0.001090830782496456, -0.01090830782496456, -0.008726646259971648)
+Euler angle: (49.8125, -0.5, 3.1875)
+Quaternion: (0.90643310546875, -0.0235595703125, 0.01617431640625, -0.42138671875)
+Linear acceleration (m/s^2): (0.06, 0.02, 0.01)
+Gravity (m/s^2): (-0.09, -0.54, 9.790000000000001)
+rotate clockwise
+^CTraceback (most recent call last):
+  File "/home/vijit/Gesture-Controlled-Drone/code.py", line 92, in <module>
+    time.sleep(10)
+KeyboardInterrupt
